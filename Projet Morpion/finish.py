@@ -14,11 +14,6 @@ def AfficherCrédit():
     p2=(100,100)
     ecrire("ALLAOUAT ABDENOUR",p2,14,blanc,f)
     p3=(100,130)
-    ecrire("GUERIN ALEXIS",p3,14,blanc,f)
-    p3=(50,160)
-    ecrire("Avec l'aide de ",p3,18,blanc,f)
-    p3=(50,200)
-    ecrire("Mr DARONNE et Mr DELAFOLIE",p3,18,blanc,f)
     wait_clic()
     AffichageDebut()
 
